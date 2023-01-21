@@ -11,7 +11,7 @@
 ![portada_readme_AlkyBank](https://user-images.githubusercontent.com/93409437/201484565-a50c1e1d-a871-4abe-897d-2c89a21bcc4c.png)
 ### _A bank that seeks to innovate and improve the user experience._
 
-Cabe aclarar que este es un repositorio bifurcado y por eso los commits de los demas desarrolladores no aparecen, pero si quiere puede ir al [link](https://github.com/SkillUp-Grupo5/SKU-5) del repositorio original.
+It should be noted that this is a forked repository and that is why the commits of the other developers do not appear, but if you want you can go to the [link](https://github.com/SkillUp-Grupo5/SKU-5) of the original repository.
 
 ### Equipo **R-5**
 
