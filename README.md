@@ -9,13 +9,15 @@
 <h1 align='center'> AlkyBank </h1>
 
 ![portada_readme_AlkyBank](https://user-images.githubusercontent.com/93409437/201484565-a50c1e1d-a871-4abe-897d-2c89a21bcc4c.png)
-### _Un banco que busca innovar y mejorar la experiencia del usuario._
+### _A bank that seeks to innovate and improve the user experience._
+
+Cabe aclarar que este es un repositorio bifurcado y por eso los commits de los demas desarrolladores no aparecen, pero si quiere puede ir al [link](https://github.com/SkillUp-Grupo5/SKU-5) del repositorio original.
 
 ### Equipo **R-5**
 
 #### Integrates 
 ------
-| Desarrolladores | Roles| Github  | LinkedIn |
+| Developers | Roles| Github  | LinkedIn |
 | ------------- |:-------------:| -----|------- |
 | Lucas Ojeda| Front-end   |[link](https://github.com/lucasgojeda)|[link](https://www.linkedin.com/in/lucas-ojeda-a03372225/) |
 | Valentín Ruggieri |Front-end    | [link](https://github.com/valen-ruggieri) |[link](https://www.linkedin.com/in/valentinruggieri/)|
@@ -23,7 +25,7 @@
 | Santiago Pacini | Front-end     |  [link](https://github.com/Santipac) | [link](https://www.linkedin.com/in/santiagopacinidev/)|
 ------
 
-## Tecnologias y dependencias
+## Technologies and dependencies
 - React js
 - Redux Toolkit
 - Axios
@@ -34,11 +36,11 @@
 - Chart js
 - Sweet Alert
 
-## Instalación
+## Installation
 
 
 
-Primero instalamos las dependencias y luego iniciamos el servidor local.
+First install the dependencies and then we start the local server.
 
 ```sh
 $ cd alkybank
@@ -49,7 +51,5 @@ $ npm i
 ```
 
 ```sh
-$ npm start
+$ npm run dev
 ```
-
-"# alkybank" 
